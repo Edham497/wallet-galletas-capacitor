@@ -1,0 +1,6 @@
+{
+    "appId": "org.edham.captest",
+    "appName": "cap-test",
+    "bundledWebRuntime": false,
+    "webDir": "dist"
+}
